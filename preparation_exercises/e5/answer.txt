@@ -1,0 +1,4 @@
+substring | string | prototype
+creat | object | static
+fromCharCode |string | static
+slice | array, string | prototype
