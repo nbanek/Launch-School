@@ -1,0 +1,2 @@
+//console.log(foo.a) logs 'hi' because objects are mutable and the property was changed in the function bar
+//console.log(qux) logs 'hello' because strings are not mutable, argument2 = 'hi' simply assigns the value of qux to argument2, it does not change qux.
