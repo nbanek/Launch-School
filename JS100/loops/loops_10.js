@@ -1,0 +1,1 @@
+//the do-while loop will log 'Woooo!' because the do operation occurs before the loop condition is checked

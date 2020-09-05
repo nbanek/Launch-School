@@ -1,0 +1,1 @@
+//the value is undefined, var variables are moved to the beginning of scope and declared, but not defined.

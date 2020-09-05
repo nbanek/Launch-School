@@ -1,0 +1,1 @@
+// error because the constant cannot be redefined.

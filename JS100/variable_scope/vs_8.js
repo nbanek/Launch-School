@@ -1,0 +1,1 @@
+// the console logs 2 because b was passed as an argument.

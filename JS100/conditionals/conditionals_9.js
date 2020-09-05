@@ -1,0 +1,1 @@
+// $3.99 is logged because it checks for !sale, sale is true, so the ternary returns false;

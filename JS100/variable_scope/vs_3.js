@@ -1,0 +1,1 @@
+//the console will log undefined because the let variable is declared and defined within a scope.

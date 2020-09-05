@@ -1,0 +1,1 @@
+Date.now() //returns time elapsed in ms since Jan 1 1970 00:00:00 UTC

@@ -1,0 +1,1 @@
+// the console logs false because it does not see the redefinition of b = true in the scope.

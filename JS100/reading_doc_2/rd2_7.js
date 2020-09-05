@@ -1,0 +1,1 @@
+//Array.prototype.join() only takes one argument, others will be ignored.

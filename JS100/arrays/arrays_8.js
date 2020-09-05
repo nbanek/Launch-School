@@ -1,0 +1,1 @@
+// use the Array.isArray() method.

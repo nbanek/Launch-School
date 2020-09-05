@@ -1,0 +1,1 @@
+//One can join two strings together with the + operator or String1.concat(character_to_join,String2)
